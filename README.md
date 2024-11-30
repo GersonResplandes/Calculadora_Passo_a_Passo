@@ -44,7 +44,3 @@ Atualmente, a calculadora só é capaz de realizar uma operação por vez (como 
 - **Subtração**: Exibe os passos detalhados da subtração.
 - **Multiplicação**: Exibe os passos detalhados da multiplicação.
 - **Divisão**: Exibe os passos detalhados da divisão.
-
-## 📄 Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
