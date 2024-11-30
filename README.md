@@ -1,14 +1,12 @@
 # Calculadora Passo a Passo
 
-Calculadora desenvolvida para exibir as operações matemáticas (adição, subtração, multiplicação e divisão) passo a passo, com design futurista e implementada em **TypeScript**.
+Calculadora em desenvolvimento para exibir as operações matemáticas (adição, subtração, multiplicação e divisão) passo a passo
 
 ## 🚀 Demonstração
 
 Veja a demonstração do funcionamento da calculadora no vídeo abaixo:
 
 [![Demonstração da Calculadora](https://img.youtube.com/vi/ID_DO_VIDEO/maxresdefault.jpg)](https://github.com/user-attachments/assets/b2a6148b-5d0a-4646-bf46-e89399d0a62c)
-
-> **Nota:** O vídeo também pode ser visualizado diretamente clicando [aqui](https://github.com/user-attachments/assets/b2a6148b-5d0a-4646-bf46-e89399d0a62c).
 
 ## 💻 Tecnologias Utilizadas
 
