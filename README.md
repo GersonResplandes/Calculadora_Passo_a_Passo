@@ -1,46 +1,68 @@
-# 🚀 Calculadora Passo a Passo
+# 🧮 Calculadora Passo a Passo
 
-Calculadora interativa que exibe operações matemáticas (adição, subtração, multiplicação e divisão) passo a passo, com um design moderno e visualmente atrativo. **(Em desenvolvimento)**
+![Calculadora Responsiva](./.github/calc-preview.png)
 
-## 🎥 Demonstração
+Uma calculadora moderna, responsiva e elegante feita com **React + TypeScript** e **Bootstrap**, com design totalmente customizado para desktop e mobile.
 
-Veja a demonstração do funcionamento da calculadora no vídeo abaixo:
+## ✨ Funcionalidades
 
-[![Demonstração da Calculadora](https://img.youtube.com/vi/ID_DO_VIDEO/maxresdefault.jpg)](https://github.com/user-attachments/assets/b7daf779-a786-4554-a18c-3fef27226373)
+- Botões clássicos: 0-9, vírgula, C (limpar), apagar, quatro operações (+, -, ×, ÷), igual (=) e raiz quadrada (√)
+- Display grande e responsivo, com rolagem horizontal automática
+- Resultado destacado, com tratamento de erros
+- Totalmente responsiva: funciona perfeitamente em celulares, tablets e desktops
+- Design moderno, UX aprimorada e acessibilidade
+- Compatível com todos os navegadores modernos
 
-## 💻 Tecnologias Utilizadas
+## 🚀 Demonstração
 
-Este projeto utiliza as seguintes tecnologias:
+![Demo Mobile](./.github/calc-mobile-demo.png)
 
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) **HTML5**: Estruturação da página e conteúdo.
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) **CSS3**: Estilização do layout com foco em um design futurista e responsivo.
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**: Lógica e cálculos da calculadora.
+## 🛠️ Tecnologias
 
-## 🔧 Como Executar Localmente
+- [React](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Bootstrap 5](https://getbootstrap.com/)
+- CSS puro customizado
+- Vite
 
-1. **Clone o repositório**:
-    ```bash
-    git clone https://github.com/GersonScript/Calculadora_Passo_a_Passo.git
-    ```
+## 📦 Instalação
 
-2. **Acesse o diretório do projeto**:
-    ```bash
-    cd Calculadora_Passo_a_Passo
-    ```
+```bash
+# Clone o repositório
+$ git clone https://github.com/seu-usuario/seu-repo.git
+$ cd seu-repo/calculadora-Plus
 
-3. **Abra o arquivo `index.html` no navegador** para ver a calculadora em funcionamento.
+# Instale as dependências
+$ npm install
 
-## 📜 Sobre o Projeto
+# Rode o projeto
+$ npm run dev
+```
 
-O objetivo deste projeto é apresentar de forma clara as operações matemáticas, exibindo os passos detalhados de cada operação. O design é inspirado em um estilo futurista, utilizando gradientes, animações e um layout moderno para proporcionar uma experiência visual imersiva.
+Acesse em [http://localhost:5173](http://localhost:5173)
 
-**Status: Em desenvolvimento!**
+## 📱 Responsividade
 
-Atualmente, a calculadora só é capaz de realizar uma operação por vez (como soma, subtração, multiplicação ou divisão). Estamos trabalhando para aprimorar o projeto e permitir que múltiplas operações sejam realizadas em sequência.
+- O layout se adapta automaticamente a qualquer tamanho de tela
+- O display nunca some, mesmo com teclado virtual aberto
+- Botões grandes e fáceis de clicar no mobile
 
-### Funcionalidades:
+## 💡 Como usar
 
-- **Adição**: Exibe os passos detalhados da soma.
-- **Subtração**: Exibe os passos detalhados da subtração.
-- **Multiplicação**: Exibe os passos detalhados da multiplicação.
-- **Divisão**: Exibe os passos detalhados da divisão.
+- Clique nos botões para montar sua expressão
+- Use C para limpar tudo, ← para apagar, = para calcular e √ para raiz quadrada
+- O resultado aparece destacado abaixo do display
+
+## 🖼️ Screenshots
+
+| Desktop                                | Mobile                               |
+| -------------------------------------- | ------------------------------------ |
+| ![Desktop](./.github/calc-desktop.png) | ![Mobile](./.github/calc-mobile.png) |
+
+## 👨‍💻 Autor
+
+- Feito por [Seu Nome](https://github.com/seu-usuario)
+
+---
+
+> Sinta-se à vontade para contribuir, sugerir melhorias ou reportar bugs!
