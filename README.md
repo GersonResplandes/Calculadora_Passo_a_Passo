@@ -14,7 +14,7 @@
 
 ---
 
-![Calculadora Responsiva](./.github/calc-preview.png)
+![Calculadora Responsiva](./public/image.svg)
 
 ## ✨ Funcionalidades
 
@@ -83,9 +83,9 @@ Acesse em [http://localhost:5173](http://localhost:5173)
 
 ## 🖼️ Screenshots
 
-| Desktop                                | Mobile                               |
-| -------------------------------------- | ------------------------------------ |
-| ![Desktop](./.github/calc-desktop.png) | ![Mobile](./.github/calc-mobile.png) |
+| Desktop                               | Mobile                              |
+| ------------------------------------- | ----------------------------------- |
+| ![Desktop](./public/calc-desktop.png) | ![Mobile](./public/calc-mobile.png) |
 
 ---
 
