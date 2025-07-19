@@ -1,8 +1,20 @@
 # 🧮 Calculadora Passo a Passo
 
-![Calculadora Responsiva](./.github/calc-preview.png)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=30&center=true&vCenter=true&width=900&lines=Calculadora+moderna+e+responsiva+com+React+e+TypeScript;Design+customizado+para+desktop+e+mobile"/>
+</div>
 
-Uma calculadora moderna, responsiva e elegante feita com **React + TypeScript** e **Bootstrap**, com design totalmente customizado para desktop e mobile.
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</div>
+
+---
+
+![Calculadora Responsiva](./.github/calc-preview.png)
 
 ## ✨ Funcionalidades
 
@@ -13,39 +25,53 @@ Uma calculadora moderna, responsiva e elegante feita com **React + TypeScript** 
 - Design moderno, UX aprimorada e acessibilidade
 - Compatível com todos os navegadores modernos
 
+---
+
 ## 🚀 Demonstração
 
-![Demo Mobile](./.github/calc-mobile-demo.png)
+<div align="center">
+  <img src="./.github/calc-mobile-demo.png" alt="Demo Mobile" width="300"/>
+</div>
 
-## 🛠️ Tecnologias
+---
 
-- [React](https://react.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Bootstrap 5](https://getbootstrap.com/)
-- CSS puro customizado
-- Vite
+## 🛠️ Tecnologias Utilizadas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+</div>
+
+---
 
 ## 📦 Instalação
 
 ```bash
 # Clone o repositório
-$ git clone https://github.com/seu-usuario/seu-repo.git
-$ cd seu-repo/calculadora-Plus
+git clone https://github.com/seu-usuario/seu-repo.git
+cd Calculadora_Passo_a_Passo
 
 # Instale as dependências
-$ npm install
+npm install
 
 # Rode o projeto
-$ npm run dev
+npm run dev
 ```
 
 Acesse em [http://localhost:5173](http://localhost:5173)
 
+---
+
 ## 📱 Responsividade
 
-- O layout se adapta automaticamente a qualquer tamanho de tela
-- O display nunca some, mesmo com teclado virtual aberto
+- Layout se adapta automaticamente a qualquer tamanho de tela
+- Display nunca some, mesmo com teclado virtual aberto
 - Botões grandes e fáceis de clicar no mobile
+
+---
 
 ## 💡 Como usar
 
@@ -53,16 +79,23 @@ Acesse em [http://localhost:5173](http://localhost:5173)
 - Use C para limpar tudo, ← para apagar, = para calcular e √ para raiz quadrada
 - O resultado aparece destacado abaixo do display
 
+---
+
 ## 🖼️ Screenshots
 
 | Desktop                                | Mobile                               |
 | -------------------------------------- | ------------------------------------ |
 | ![Desktop](./.github/calc-desktop.png) | ![Mobile](./.github/calc-mobile.png) |
 
+---
+
 ## 👨‍💻 Autor
 
-- Feito por [Seu Nome](https://github.com/seu-usuario)
+- Feito por [Gérson Resplandes de Sá Sousa](https://github.com/GersonResplandes)
 
 ---
 
-> Sinta-se à vontade para contribuir, sugerir melhorias ou reportar bugs!
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
+  <sub>Sinta-se à vontade para contribuir, sugerir melhorias ou reportar bugs!</sub>
+</div>
