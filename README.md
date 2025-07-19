@@ -1,4 +1,4 @@
-# 🧮 Calculadora Passo a Passo
+# 🧮 Calculadora
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=30&center=true&vCenter=true&width=900&lines=Calculadora+moderna+e+responsiva+com+React+e+TypeScript;Design+customizado+para+desktop+e+mobile"/>
@@ -24,15 +24,6 @@
 - Totalmente responsiva: funciona perfeitamente em celulares, tablets e desktops
 - Design moderno, UX aprimorada e acessibilidade
 - Compatível com todos os navegadores modernos
-
----
-
-## 🚀 Demonstração
-
-<div align="center">
-  <img src="./.github/calc-mobile-demo.png" alt="Demo Mobile" width="300"/>
-</div>
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
